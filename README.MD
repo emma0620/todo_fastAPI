@@ -13,7 +13,7 @@ uvicorn main:app --reload
  http://127.0.0.1:8000/docs
  
 
- ![alt text](static/images/Swagger UI.png)
+ ![alt text](static/images/SwaggerUI.png)
 
 
 另類 API 文檔 (ReDoc)
