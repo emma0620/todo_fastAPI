@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "todo-fastapi"
+version = "0.1.0"
+description = ""
+authors = ["emma0620 <emmawang0620@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.4"
+fastapi = "^0.115.6"
+uvicorn = "^0.34.0"
+sqlalchemy = "^2.0.37"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
